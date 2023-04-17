@@ -18,7 +18,7 @@
   <br />
   <h4>✨ SNS & Portfolio ✨</h4>
   <div>
-    <img src="https://img.shields.io/badge/tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white">&nbsp;<a href="https://wlsghk.github.io/my-site/index.html" target="_blank" {:target="_blank"}><img src="https://img.shields.io/badge/portfolio-181717?style=for-the-badge&logo=Github&logoColor=white"></a>
+    <a href="https://baevolution.tistory.com/"><img src="https://img.shields.io/badge/blog-000000?style=for-the-badge&logo=Tistory&logoColor=white"></a>&nbsp;<a href="https://wlsghk.github.io/my-site/index.html" target="_blank"><img src="https://img.shields.io/badge/portfolio-181717?style=for-the-badge&logo=Github&logoColor=white"></a>
   </div>
   <hr />
   <br />
