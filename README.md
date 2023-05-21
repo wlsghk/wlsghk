@@ -19,7 +19,7 @@
   <br />
   <h4>✨ Frameworks & Portfolio ✨</h4>
   <div>
-    <img src="https://img.shields.io/badge/git-05032?style=for-the-badge&logo=Git&logoColor=white">&nbsp;<img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=white">&nbsp<a href="https://baevolution.tistory.com/"><img src="https://img.shields.io/badge/tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"></a>&nbsp;<a href="https://wlsghk.github.io/my-site/index.html" target="_blank"><img src="https://img.shields.io/badge/portfolio-181717?style=for-the-badge&logo=Github&logoColor=white"></a>
+    <img src="https://img.shields.io/badge/git-05032?style=for-the-badge&logo=Git&logoColor=white">&nbsp;<img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=white">&nbsp<a href="https://baevolution.tistory.com/"><img src="https://img.shields.io/badge/tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"></a>&nbsp;<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">&nbsp;<a href="https://wlsghk.github.io/my-site/index.html" target="_blank"><img src="https://img.shields.io/badge/portfolio-44C1C5?style=for-the-badge&logo=Github&logoColor=white"></a>
   </div>
   <br />
   <hr />
