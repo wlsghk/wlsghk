@@ -3,7 +3,6 @@
   <br />
   <h3>Hello, Stranger! This is Jin-hwa's Github page. 👋</h3>
   <h3>I am currently working as a web designer.</h3>
-  <h3>My next goal is a ✌front-end developer.✌</h3>
   <br />
   <hr />
   <br />
