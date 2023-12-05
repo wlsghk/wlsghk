@@ -41,8 +41,6 @@
     />
     <img src="https://github-readme-stats.vercel.app/api?username=wlsghk&show_icons=true" />
   </picture>
-  <br />
-  <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wlsghk&layout=compact">
 </div>
   <br />
