@@ -1,8 +1,8 @@
 <div align="center">
   <br />
   <br />
-  <h3>Hello, Stranger! This is Jin-hwa's Github page. 👋</h3>
-  <h3>I am currently working on UI/UX design and publishing.</h3>
+  <h4>Hello, Stranger! 👋</h4>
+  <h4>I am currently working on UI/UX design and publishing.</h4>
   <br />
   <hr />
   <br />
