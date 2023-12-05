@@ -20,7 +20,7 @@
   <br />
   <h4>✨ Frameworks ✨</h4>
   <div>
-    <img src="https://img.shields.io/badge/git-05032?style=for-the-badge&logo=Git&logoColor=white">&nbsp;<img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=white">&nbsp<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">&nbsp;
+    <img src="https://img.shields.io/badge/git-05032?style=for-the-badge&logo=Git&logoColor=white">&nbsp;<img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=white">&nbsp;
   </div>
     <br />
     <h4>✨ Studying ✨</h4>
