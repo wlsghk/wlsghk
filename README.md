@@ -6,7 +6,7 @@
   <br />
   <hr />
   <br />
-  <h3>My Tech Stack 💻</h3>
+  <h4>My Tech Stack 💻</h4>
   <br />
   <h4>✨ Languages ✨</h4>
   <div>
