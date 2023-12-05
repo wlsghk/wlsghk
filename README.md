@@ -18,9 +18,9 @@
     <img src="https://img.shields.io/badge/adobephotoshop-31A8FF?style=for-the-badge&logo=AdobePhotoshop&logoColor=white">&nbsp;<img src="https://img.shields.io/badge/adobeillustrator-FF9A00?style=for-the-badge&logo=AdobeIllustrator&logoColor=white">&nbsp;<img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white">&nbsp;
   </div>
   <br />
-  <h4>✨ Frameworks & Portfolio ✨</h4>
+  <h4>✨ Frameworks ✨</h4>
   <div>
-    <img src="https://img.shields.io/badge/git-05032?style=for-the-badge&logo=Git&logoColor=white">&nbsp;<img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=white">&nbsp<a href="https://baevolution.tistory.com/"><img src="https://img.shields.io/badge/tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"></a>&nbsp;<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">&nbsp;<a href="https://wlsghk.github.io/my-site/index.html" target="_blank"><img src="https://img.shields.io/badge/portfolio-44C1C5?style=for-the-badge&logo=Github&logoColor=white"></a>
+    <img src="https://img.shields.io/badge/git-05032?style=for-the-badge&logo=Git&logoColor=white">&nbsp;<img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=white">&nbsp<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">&nbsp;
   </div>
     <br />
     <h4>✨ Studying ✨</h4>
